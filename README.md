@@ -3,6 +3,6 @@ Aurreko hamabi kapituluetan programa egokiak sortzeko oinarrizko kontzeptu asko 
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- InetAddressKlasea: . orr.
-- TCPZerbitzariaBezeroa: . orr.
-- UDPZerbitzariaBezeroa: . orr.
+- InetAddressKlasea: 352. orr.
+- TCPZerbitzariaBezeroa: 360. orr.
+- UDPZerbitzariaBezeroa: 372. orr.
