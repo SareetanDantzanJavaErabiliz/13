@@ -6,3 +6,7 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - InetAddressKlasea: 352. orr.
 - TCPZerbitzariaBezeroa: 360. orr.
 - UDPZerbitzariaBezeroa: 372. orr.
+
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
